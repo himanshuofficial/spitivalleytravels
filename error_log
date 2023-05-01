@@ -1,0 +1,21 @@
+[18-Jun-2019 12:37:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/himalayanfoot/public_html/himachaltourisms.in/leh/index.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/himalayanfoot/public_html/himachaltourisms.in/leh/index.php on line 177
+[18-Jun-2019 12:37:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/himalayanfoot/public_html/himachaltourisms.in/leh/index.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/himalayanfoot/public_html/himachaltourisms.in/leh/index.php on line 177
+[18-Jun-2019 12:42:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/himalayanfoot/public_html/himachaltourisms.in/leh/index.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/himalayanfoot/public_html/himachaltourisms.in/leh/index.php on line 178
+[04-Jul-2019 12:32:41 UTC] PHP Notice:  Undefined variable: destination in /home/himalayanfoot/public_html/LEHLADAKH.BIZ/header.php on line 11
+[08-Aug-2020 17:56:03 UTC] PHP Notice:  Undefined index: name in /home/himalayanfoot/public_html/spitivalleytravels.com/header.php on line 3
+[08-Aug-2020 17:56:03 UTC] PHP Notice:  Undefined index: email in /home/himalayanfoot/public_html/spitivalleytravels.com/header.php on line 4
+[08-Aug-2020 17:56:03 UTC] PHP Notice:  Undefined index: contact in /home/himalayanfoot/public_html/spitivalleytravels.com/header.php on line 5
+[08-Aug-2020 17:56:03 UTC] PHP Notice:  Undefined index: duration in /home/himalayanfoot/public_html/spitivalleytravels.com/header.php on line 6
+[08-Aug-2020 17:56:03 UTC] PHP Notice:  Undefined index: date in /home/himalayanfoot/public_html/spitivalleytravels.com/header.php on line 7
+[08-Aug-2020 17:56:03 UTC] PHP Notice:  Undefined index: adult in /home/himalayanfoot/public_html/spitivalleytravels.com/header.php on line 8
+[08-Aug-2020 17:56:03 UTC] PHP Notice:  Undefined index: message in /home/himalayanfoot/public_html/spitivalleytravels.com/header.php on line 9
+[04-Jul-2021 11:36:32 UTC] PHP Notice:  Undefined index: duration in /home/himalayanfoot/public_html/spitivalleytravels.com/header.php on line 6

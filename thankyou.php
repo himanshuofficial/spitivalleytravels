@@ -12,11 +12,11 @@
 </script>
 
 <meta name=viewport content="width=device-width, initial-scale=1">
-	<link href="css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 <style>
 .city2 {
-	background: url(images/bg-signup-banner2.jpg)no-repeat top center;
+	background: url(images/bg-signup-banner2.webp)no-repeat top center;
 	max-width: 1280px;
 	width: 100%;
 	display: inline-block;

@@ -32,8 +32,6 @@ if(mail($recipient, $subject, $formcontent, $mailheader)){
 <meta name="description" content="Leh Ladakh Tour Packages - Find the Leh Ladakh Tour Packages at discounted price. best price on Leh Ladakh Tour Packages."/>
 <meta name="keywords" content="Leh Ladakh Tour Packages, Tours to Leh Ladakh, Tour Package to Leh Ladakh, Leh Ladakh Tourism, Packages to Leh Ladakh, Leh Ladakh Tour Package, Leh Ladakh Packages, Holidays in Leh Ladakh, Leh Ladakh Holiday Packages, Leh Ladakh Tours, Package Tour to Leh Ladakh, Trip to Leh Ladakh" />
 <link rel="stylesheet" href="css/style.css">
-
-<link rel="stylesheet" href="css/font-awesome.min.css">
 <link href="css/jquery-ui.css" rel="stylesheet">
 </head>
 
@@ -45,7 +43,7 @@ if(mail($recipient, $subject, $formcontent, $mailheader)){
       
       <div class="col-md-3 col-xs-6 yellostrip">
       <div class="leftwrap">
-       <a href="index.php"> <img class="rgt" src="images/logo.png" alt=" Logo"></a></div>
+       <a href="index.php"> <img class="rgt" src="images/logo.webp" alt=" Logo"></a></div>
       </div>
 	
 	 <div class="col-md-1"></div>

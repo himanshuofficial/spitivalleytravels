@@ -99,19 +99,19 @@
     </div>
 
     <div class="col-md-3 bdr pad">
-      <div class="iconset"><img src="images/icon1.png" alt="palm-tree"  loading="lazy"></div>
+      <div class="iconset"><img src="images/icon1.webp" alt="palm-tree"  loading="lazy"></div>
       <div class="icontext"> Best Rates in the Market<br>
       <span>Best Rates available</span></div>
     </div>
 
     <div class="col-md-3 bdr pad">
-      <div class="iconset"><img src="images/icon2.png" alt="palm-tree" loading="lazy"></div>
+      <div class="iconset"><img src="images/icon2.webp" alt="palm-tree" loading="lazy"></div>
       <div class="icontext">Get Customized Packages<br>
       <span>Fill Form to Customize</span></div>
     </div>
 
     <div class="col-md-4 pad">
-      <div class="iconset"><img src="images/icon3.png" alt="palm-tree" loading="lazy"></div>
+      <div class="iconset"><img src="images/icon3.webp" alt="palm-tree" loading="lazy"></div>
       <div class="icontext">24 * 7 Customer Support<br>
       <span>On Direct Sales Person Mobile Number</span></div>
     </div>
@@ -142,7 +142,7 @@
       <div class="pack">
         <div class="packimage">
           <div class="hovereffect">
-            <img src="images/packages/lehladakh1.jpg" alt="Magical Ladakh" loading="lazy" width="100%">
+            <img src="images/packages/lehladakh1.webp" alt="Magical Ladakh" loading="lazy" width="100%">
 			</div>
 			<div class="tag"> 50% Off</div>
           <div class="packdetails">
@@ -191,7 +191,7 @@
       <div class="pack">
         <div class="packimage">
           <div class="hovereffect">
-            <img src="images/packages/lehladakh2.jpg" alt="Magical Ladakh" loading="lazy" width="100%">
+            <img src="images/packages/lehladakh2.webp" alt="Magical Ladakh" loading="lazy" width="100%">
 			</div>
 			<div class="tag"> 35% off</div>
           <div class="packdetails">
@@ -199,7 +199,7 @@
 		  <div class="mybkgcol">
             <h1>UNEXPLORED SPITI</h1>
 			</div>
-			<p class="aa">INR <span class="myline">20, 800/-   </span> &nbsp <span class="colorclass"> 13,500/- </span>  Onwards </span></p>
+			<p class="aa">INR <span class="myline">20,800/-   </span> &nbsp <span class="colorclass"> 13,500/- </span>  Onwards </span></p>
 			<div class="mypakage">
 			
             <p class="p2">  06 Nights/07 Days <span>01night Sangla | 01night Nako|1Night Kaza |1Night Langza| 01 night Chandrataal |01 night Manali|</span></p>
@@ -239,7 +239,7 @@
       <div class="pack">
         <div class="packimage">
           <div class="hovereffect">
-            <img src="images/packages/lehladakh3.jpg" alt="Simply Ladakh" loading="lazy" width="100%">
+            <img src="images/packages/lehladakh3.webp" alt="Simply Ladakh" loading="lazy" width="100%">
 			</div>
 			<div class="tag"> 40% off</div>
           <div class="packdetails">
@@ -290,7 +290,7 @@
       <div class="pack">
         <div class="packimage">
           <div class="hovereffect">
-            <img src="images/packages/lehladakh4.jpg" loading="lazy" alt="Magical Ladakh with Tsomoriri" width="100%">
+            <img src="images/packages/lehladakh4.webp" loading="lazy" alt="Magical Ladakh with Tsomoriri" width="100%">
 			</div>
 			<div class="tag"> 35% off</div>
           <div class="packdetails">
@@ -338,7 +338,7 @@
       <div class="pack">
         <div class="packimage">
           <div class="hovereffect">
-            <img src="images/packages/lehladakh5.jpg" loading="lazy" alt="Welcome to Ladakh" width="100%">
+            <img src="images/packages/lehladakh5.webp" loading="lazy" alt="Welcome to Ladakh" width="100%">
 			</div>
 			<div class="tag"> 25% off</div>
           <div class="packdetails">
@@ -384,7 +384,7 @@
       <div class="pack">
         <div class="packimage">
           <div class="hovereffect">
-            <img src="images/packages/lehladakh6.jpg" loading="lazy" alt="Discover Ladakh by Motor Bike" width="100%">
+            <img src="images/packages/lehladakh6.webp" loading="lazy" alt="Discover Ladakh by Motor Bike" width="100%">
 			</div>
 			<div class="tag"> 45% off</div>
           <div class="packdetails">

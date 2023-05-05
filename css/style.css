@@ -64,7 +64,7 @@ a[href^="tel:"] {
 .whtapp-box i {
 	/* background: #000; */
 	/* z-index: 99999999999; */
-	margin-left: 16px;
+	margin-left: 13px;
 	font-size: 28px;
 	margin-top: 11px;
 	color: #fff;
@@ -211,7 +211,7 @@ a:focus, a:hover {
 	font-family: 'Roboto', sans-serif;
 	/* background: #f7f7f7; */
 	padding: 15px 40px;
-	background: url(../images/bkgimg.jpg);
+	background: url(../images/bkgimg.webp);
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -552,7 +552,7 @@ a:focus, a:hover {
 
 /*-- SLIDER --*/
 #slider {
-	background: url(../images/banner-image.jpg) 0% -130px ;
+	background: url(../images/banner-image.webp) 0% -130px ;
   background-attachment: fixed;
 	background-size: cover;
 	padding: 20px 0px;
@@ -920,7 +920,7 @@ transition-delay:.2s;
 
 /*-- FOTTER --*/
 #footer {
-  background:#1c1c1c url(../images/bg-footer.jpg) 20% 30% no-repeat;
+  background:#1c1c1c url(../images/bg-footer.webp) 20% 30% no-repeat;
   padding: 30px 0px 20px;
 }
 #footer h4 {
@@ -1191,7 +1191,7 @@ body{
     font-size: 12px;
   }
   #footer {
-  background:#1c1c1c url(../images/bg-footer.jpg) no-repeat !important;
+  background:#1c1c1c url(../images/bg-footer.webp) no-repeat !important;
   background-size: cover !important;
   background-attachment: fixed !important;
   }
@@ -1233,7 +1233,7 @@ body{
     padding: 100px 0px;
   }
   #slider {
-    background: url(../images/banner-image.jpg) 78% -40px;
+    background: url(../images/banner-image.webp) 78% -40px;
     background-attachment: fixed;
     background-size: cover;
     padding: 20px 0px;
@@ -1241,7 +1241,7 @@ body{
     color: #fff;
   }
     #footer {
-  background:#1c1c1c url(../images/bg-footer.jpg) no-repeat !important;
+  background:#1c1c1c url(../images/bg-footer.webp) no-repeat !important;
   background-size: cover !important;
   background-attachment: fixed !important;
   }
@@ -1250,7 +1250,7 @@ body{
 /*-- ORIENTATION --*/
 @media (max-device-width:1024px) and (orientation:landscape) {
   #slider {
-    background: url(../images/banner-image.jpg) 78% -40px;
+    background: url(../images/banner-image.webp) 78% -40px;
     background-attachment: fixed;
     background-size: cover;
     padding: 20px 0px;
@@ -1349,6 +1349,32 @@ body{
   .heading, .feature, .fixed {
     display: none;
   }
+}
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('../fonts/fontawesome-webfont3e6e3e6e.eot?v=4.7.0');
+  src: url('../fonts/fontawesome-webfontd41dd41d.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont3e6e3e6e.html?v=4.7.0') format('woff2'), url('../fonts/fontawesome-webfont3e6e3e6e.woff?v=4.7.0') format('woff'), url('../fonts/fontawesome-webfont3e6e3e6e.ttf?v=4.7.0') format('truetype'), url('../fonts/fontawesome-webfont3e6e3e6e.svg?v=4.7.0#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal
+}
+.fa {
+display: inline-block;
+font: normal normal normal 14px/1 FontAwesome;
+font-size: inherit;
+text-rendering: auto;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale
+}
+
+.fa-phone:before {
+  content: "\f095"
+}
+
+.fa-envelope:before {
+  content: "\f0e0"
+}
+.fa-whatsapp:before {
+  content: "\f232"
 }
 
 

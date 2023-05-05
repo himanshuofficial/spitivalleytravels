@@ -183,7 +183,7 @@
   </div>
 </div>
 
-<link href="css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <!-- Global site tag (gtag.js) - Google Ads: 756650446 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-756650446"></script>
 <script>
@@ -198,9 +198,8 @@
 
 
 
-<script src="js/jquery.min.js" ></script>
-<script src="js/jquery-ui.js" async></script>
-<script src="js/bootstrap.min.js" async></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js" integrity="sha512-jGsMH83oKe9asCpkOVkBnUrDDTp8wl+adkB2D+//JtlxO4SrLoJdhbOysIFQJloQFD+C4Fl1rMsQZF76JjV0eQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous" async></script>
   <!-- Global site tag (gtag.js) - Google Ads: 756650446 -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-756650446"></script>
 <script>
@@ -227,6 +226,7 @@
 
   })
 </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" integrity="sha512-uto9mlQzrs59VwILcLiRYeLKPPbS/bT71da/OEBYEwcdNUk8jYIy+D176RYoop1Da+f9mvkYrmj5MCLZWEtQuA==" crossorigin="anonymous" referrerpolicy="no-referrer" async></script>
 
 </body>
 

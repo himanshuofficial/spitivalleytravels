@@ -9,7 +9,7 @@
 		
 		<div class="col-sm-6">
 				<div class="myimage">
-				<img src="images\packages\lehladakh3.webp">
+				<img loading='lazy' src="images\packages\lehladakh3.webp">
 				</div>
 		</div>
 		
@@ -203,7 +203,7 @@ After breakfast check out from hotel and drive to Manali Volvo Station.
       <div class="row">
         <div class="col-md-3 col-sm-6">
           <div class="single-package">
-            <div class="package-image"> <a href="unexplored-spiti.php"><img class="img-fluid" src="images\packages\lehladakh2.webp" alt="Magical ladakh"> <span>6N/7D</span> </a> </div>
+            <div class="package-image"> <a href="unexplored-spiti.php"><img loading="lazy" class="img-fluid" src="images\packages\lehladakh2.webp" alt="Magical ladakh"> <span>6N/7D</span> </a> </div>
             <div align="center" class="package-content">
               <h5><strong><a href="unexplored-spiti.php">Unexplored Spiti</a></strong></h5>
             </div>
@@ -215,7 +215,7 @@ After breakfast check out from hotel and drive to Manali Volvo Station.
         <div class="col-md-3 col-sm-6">
 		
           <div class="single-package">
-            <div class="package-image"> <a href="hidden-heaven.php"><img class="img-fluid" src="images\packages\lehladakh6.webp" alt="Ladakh by Motor Bike"> <span>8N/9D</span> </a> </div>
+            <div class="package-image"> <a href="hidden-heaven.php"><img loading="lazy" class="img-fluid" src="images\packages\lehladakh6.webp" alt="Ladakh by Motor Bike"> <span>8N/9D</span> </a> </div>
             <div align="center" class="package-content">
               <h5><strong><a href="hidden-heaven.php">Hidden Heaven- Spiti Valley</a></strong></h5>
 
@@ -228,7 +228,7 @@ After breakfast check out from hotel and drive to Manali Volvo Station.
         </div>
         <div class="col-md-3 col-sm-6">
           <div class="single-package">
-            <div class="package-image"> <a href="women-tour.php"><img class="img-fluid" src="images\packages\lehladakh4.webp" alt="Ladakh with tasomiriri"> <span>9N/10D</span> </a> </div>
+            <div class="package-image"> <a href="women-tour.php"><img loading="lazy" class="img-fluid" src="images\packages\lehladakh4.webp" alt="Ladakh with tasomiriri"> <span>9N/10D</span> </a> </div>
            <div align="center" class="package-content">
               <h5><strong><a href="women-tour.php">Spiti Valley Women Only Tour</a></strong></h5>
             </div>
@@ -240,7 +240,7 @@ After breakfast check out from hotel and drive to Manali Volvo Station.
       
       <div class="col-md-3 col-sm-6">
         <div class="single-package">
-          <div class="package-image"> <a href="lahul.php"><img class="img-fluid" src="images\packages\lehladakh1.webp" alt="Simply Ladakh"> <span>9N/10D</span> </a> </div>
+          <div class="package-image"> <a href="lahul.php"><img loading="lazy" class="img-fluid" src="images\packages\lehladakh1.webp" alt="Simply Ladakh"> <span>9N/10D</span> </a> </div>
           <div align="center" class="package-content">
             <h5><strong><a href="lahul.php">Lahul Spiti -Bike Tour</a></strong></h5>
           </div>
